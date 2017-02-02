@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_89af5ee5fe59e266cc9bc2a6ac2bdc73014234a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_098192a47abc754ae1fe68d77d7b7da1f00061a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_fa89f5d04a36c445087229b427795bbdd5697f82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f59bfc2468b08152ee44c6209460dd71b1c7433c">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e54ada39eeed8a9348ff5a3075d3a6a1ee6e750a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_717c9d0228cd71155b47adaadfdd8ed5f1e5450c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_50a9d22596564e82dc93362a88275a1a43a93982/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_53ccf3c2c6b04b2f198441a96adfa3bc5793af17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="030f136576ca40009212dc67a523547a871cb9f8">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_301da6172a9aecb0523eec8c9939b260f6d68b9b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_0fa931ee50ade55a225cf05bc4908a6794b08a6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_c8f599dc3775f0c1cbd2bf3f2532a07d0376fce5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_686a3328f5f107c3453a3a31e222775218ea5fb9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/fahd/AndroidStudioProjects/GoogleAPILocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0a76c24875725127f0265797a5bf7ada78d2ecf7/classes.dex" />
+    </item>
+
+</items>
