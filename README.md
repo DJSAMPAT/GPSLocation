@@ -4,7 +4,7 @@ Google APIs and GPS to get the latitude and longitude - Caution: GPS consumes ba
 
 ## Authors
 
-* **Fahd Saif**
+* **Fahd Saif**</br>
 <b>License<b>
 
 MIT Licensed
